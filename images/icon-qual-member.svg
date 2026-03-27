@@ -1,0 +1,19 @@
+<svg viewBox="0 0 200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 外框 -->
+  <rect x="10" y="10" width="180" height="260" rx="8" fill="#E0E7FF" stroke="#4F46E5" stroke-width="3"/>
+  <!-- 内框 -->
+  <rect x="20" y="20" width="160" height="240" rx="4" fill="#EEF2FF" stroke="#6366F1" stroke-width="1"/>
+  <!-- 顶部图标 -->
+  <circle cx="100" cy="60" r="30" fill="#4F46E5" opacity="0.2"/>
+  <path d="M85 60 L95 70 L115 50" stroke="#4F46E5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- 标题 -->
+  <text x="100" y="110" text-anchor="middle" font-size="12" font-weight="bold" fill="#3730A3">软件行业协会</text>
+  <text x="100" y="130" text-anchor="middle" font-size="14" font-weight="bold" fill="#3730A3">会员单位</text>
+  <!-- 横线 -->
+  <line x1="40" y1="155" x2="160" y2="155" stroke="#4F46E5" stroke-width="1" opacity="0.5"/>
+  <line x1="40" y1="170" x2="160" y2="170" stroke="#4F46E5" stroke-width="1" opacity="0.5"/>
+  <line x1="40" y1="185" x2="160" y2="185" stroke="#4F46E5" stroke-width="1" opacity="0.5"/>
+  <!-- 底部印章 -->
+  <circle cx="100" cy="230" r="25" fill="none" stroke="#DC2626" stroke-width="2" opacity="0.6"/>
+  <text x="100" y="235" text-anchor="middle" font-size="10" fill="#DC2626" opacity="0.6">会员</text>
+</svg>
